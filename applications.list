@@ -1,0 +1,6 @@
+org.mozilla.firefox
+org.freedesktop.Platform.ffmpeg-full/x86_64/22.08
+org.freedesktop.Platform.GStreamer.gstreamer-vaapi
+com.mattjakeman.ExtensionManager
+org.gnome.Firmware
+org.videolan.VLC
